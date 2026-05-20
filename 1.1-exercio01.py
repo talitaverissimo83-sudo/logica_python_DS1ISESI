@@ -32,3 +32,7 @@ print(resultado)
 print(type(resultado))
 
 # EX9
+# Os números inteiros não possuem um valor máximo fixo
+
+# EX 10 
+# print(bin(10))
